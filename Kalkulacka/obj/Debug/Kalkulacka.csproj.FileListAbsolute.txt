@@ -1,0 +1,16 @@
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.AssemblyReference.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.SuggestedBindingRedirects.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\MainWindow.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\App.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka_MarkupCompile.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka_MarkupCompile.lref
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\MainWindow.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.g.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.pdb
